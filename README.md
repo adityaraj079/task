@@ -1,4 +1,4 @@
-# task
+# task   -  Tesseract OCR Reader
 The above is the program to extract the text from a image.
 
    Modules required
