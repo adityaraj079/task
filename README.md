@@ -7,21 +7,22 @@ The above is the program to extract the text from a image.
  ``
    pip install tesseract
  ``
-2. pytesseract
+ 
+ 2. pytesseract
  ``
  pip install pytesseract
  ``
+ 
  Sub Modules required
 
 Tesseract at UB Mannheim
 
 The latest installers can be downloaded here:
 
-``
 tesseract-ocr-w32-setup-v5.0.0-alpha.20200328.exe (32 bit) and
 
 tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe (64 bit) resp.
-``
+
 #  How to use the tool.
 
 1. Clone the repo 
