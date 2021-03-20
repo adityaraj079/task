@@ -8,7 +8,7 @@ The above is the program to extract the text from a image.
    pip install tesseract
  ``
  
- 2. pytesseract
+2. pytesseract
  ``
  pip install pytesseract
  ``
