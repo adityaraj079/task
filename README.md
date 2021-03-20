@@ -13,7 +13,7 @@ The above is the program to extract the text from a image.
  pip install pytesseract
  ``
  
- Sub Modules required
+ Sub-Modules required
 
 Tesseract at UB Mannheim
 
@@ -25,9 +25,9 @@ tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe (64 bit) resp.
 
 #  How to use the tool.
 
-1. Clone the repo 
+Step 1. Clone the repo 
 
-2. Run
+Step 2. Run
 ``
 sudo apt get upgrade
 ``
@@ -37,7 +37,7 @@ pip install tesseract
 ``
 pip install pytesseract
 ``
-3. Open main.py
+Step 3. Open main.py
 
 In the second line
 ``
@@ -45,5 +45,6 @@ In the second line
 ``
 replace 'Aditya' with your own user name
 
-4. The 5th contains the name the image to be used you can change that as per your requirements
+Step 4. The 5th contains the name the image to be used you can change that as per your requirements
 
+Step 5. Enjoy
